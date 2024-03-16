@@ -2,7 +2,7 @@
 
 ---
 
-## Tabulated below is the list of problems I solved using machine learning:
+The ff. are the list of problems solved.
 
 | Project Name          | Description                                |
 |-----------------------|--------------------------------------------|
